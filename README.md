@@ -7,6 +7,7 @@ Parse the google spreadsheets to simple Key/Val Json format.
 #### Example
 
 - spreadsheet: [reports](https://docs.google.com/spreadsheets/d/1brZPjwhW1PnLSbVOcpjdrnZXi-vYsLTlcbNASL_boXY/edit#gid=0)
+
 | title | type | content|
 | --- | --- | --- |
 | parser error | bug | parser is broken. |
