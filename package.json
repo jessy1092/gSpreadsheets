@@ -1,7 +1,7 @@
 {
     "name"       : "gspreadsheet",
     "description": "Parse the google spreadsheets to simple Key/Val Json format.",
-    "version"    : "0.0.2",
+    "version"    : "0.0.4",
     "contributor": [
         {
             "name" : "Lee",
@@ -18,13 +18,6 @@
     "engines":{
         "node": "0.10.x"
     },
-    "dependencies": {
-    },
-    "repository": [
-        {
-            "type": "git",
-            "url" : "https://github.com/jessy1092/gSpreadsheets"
-        }
-    ],
+    "repository": "git@github.com:jessy1092/gSpreadsheets.git",
     "license": "MIT"
 }

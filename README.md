@@ -14,7 +14,7 @@ Parse the google spreadsheets to simple Key/Val Json format.
 
 #### JSON Format
 
-''' json
+``` result.json
 {
     title: 'reports',
     result: [ { 
@@ -25,7 +25,7 @@ Parse the google spreadsheets to simple Key/Val Json format.
         } 
     } ]
 }
-'''
+```
 
 ## Usage
 
@@ -41,6 +41,10 @@ gspreadsheet.getJSON(function (result) {
 ```
 
 ## Change Log
+
+#### 2014/06/03 v0.0.4
+- update README
+- fix repo url
 
 #### 2014/06/03 v0.0.2
 - fix bug
